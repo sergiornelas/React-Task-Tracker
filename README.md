@@ -8,25 +8,25 @@ Installation:
 
 1) ➡️ npm i json-server
 
-2) At package.json
+2) At package.json:
 
     ...
     
     "scripts": {
     
-      ...
-      
-      "eject": "react-scripts eject",
-      
-      "server": "json-server --watch db.json --port 5000"	//<- ADD THIS LINE
+          ...
+
+          "eject": "react-scripts eject",
+
+          "server": "json-server --watch db.json --port 5000"	//<- ADD THIS LINE
       
     }
 
 3) Once everything it's on:
 
-  ➡️ npm run server	  //create or load db.json
+    ➡️ npm run server	  //create or load db.json
   
-  ➡️ npm start        //at a new terminal
+    ➡️ npm start        //at a new terminal
 
 ## Preview:
 
