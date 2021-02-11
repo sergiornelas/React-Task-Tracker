@@ -4,7 +4,7 @@ I used JSON server that allows us to create a mock REST API server for storing t
 
 https://www.npmjs.com/package/json-server
 
-Installation:
+JSON server installation:
 
 1) ➡️ npm i json-server
 
